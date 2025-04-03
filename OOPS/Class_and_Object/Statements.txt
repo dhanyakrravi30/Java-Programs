@@ -1,0 +1,48 @@
+1. Create a Simple Class
+Create a class Person with attributes name and age.
+Make an object, assign values, and display them.
+
+2. Student Information System
+Create a class Student with name, rollNumber, and grade.
+Create multiple objects and display their details.
+
+
+3. Car Showroom
+Implement a class Car with brand, model, price, and year.
+
+Create an object for a car and display its details.
+
+4. Book Store Management
+Design a class Book with title, author, price, and ISBN.
+
+Create multiple book objects and display their details.
+
+5. Employee Management System
+Create a class Employee with employeeId, name, designation, and salary.
+
+Create three employee objects and print their details.
+
+6. Bank Account Simulation
+Implement a class BankAccount with accountNumber, accountHolderName, and balance.
+
+Create an object and display its details.
+
+7. Mobile Phone Store
+Create a class MobilePhone with brand, model, price, and storageCapacity.
+
+Create two mobile phone objects and display details.
+
+8. Product Inventory System
+Define a class Product with productId, productName, price, and quantityInStock.
+
+Create multiple product objects and display details.
+
+9. Sports Team Players
+Create a class Player with playerName, sportType, and teamName.
+
+Create three player objects and print their details.
+
+10. Smart Home Appliance Management
+Implement a class Appliance with applianceName, brand, powerConsumption, and price.
+
+Create different appliance objects and display their details.

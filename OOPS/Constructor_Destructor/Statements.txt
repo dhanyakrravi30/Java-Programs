@@ -1,0 +1,41 @@
+1. Default Constructor
+Create a class Person with attributes name and age.
+Use a default constructor to assign default values and display them.
+
+2. Parameterized Constructor
+Define a class Student with attributes name, rollNumber, and grade.
+Use a parameterized constructor to initialize these values while creating an object.
+
+3. Constructor Overloading
+Create a class Car with attributes brand, model, and price.
+Implement constructor overloading by creating two constructors:
+One with no parameters (default values).
+Another with three parameters to initialize the attributes.
+
+4. Copy Constructor
+Implement a class Book with attributes title and author.
+Create a copy constructor that initializes a new object using an existing object.
+
+5. Constructor Calling Another Constructor
+Define a class Employee with name and salary.
+Use this() inside a constructor to call another constructor in the same class.
+
+6. Using Static Block for Initialization
+Create a class Company with a static block that initializes a company name.
+Display the company name when an object is created.
+
+7. Private Constructor (Singleton Pattern)
+Implement a Logger class with a private constructor.
+Use a static method to return a single instance of the class (Singleton Pattern).
+
+8. Destructors (Finalize Method)
+Create a class Demo with a finalize() method that prints a message before an object is destroyed.
+Create and remove an object to observe the destructor effect.
+
+9. Chaining Constructors in Inheritance
+Create a base class Animal with a constructor.
+Derive a class Dog that calls the parent constructor using super().
+
+10. Constructor in an Abstract Class
+Define an abstract class Shape with a constructor that initializes color.
+Create a subclass Circle that calls the parent constructor.
