@@ -31,3 +31,16 @@ public class Param {
         emp2.display();
     }
 }
+
+
+/*
+ * 
+Name: Dhanya
+Id:  1
+Department:  EEE
+Salary: 2300000.0
+Name: Sathya
+Id:  2
+Department:  CSE
+Salary: 2.4E7
+ */

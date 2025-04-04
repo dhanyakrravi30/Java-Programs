@@ -20,3 +20,9 @@ public class Constructor {
          p1.display();
      }
 }
+
+/*
+ * Constructor Example
+Name:  Dhanya
+Age: 21
+ */
