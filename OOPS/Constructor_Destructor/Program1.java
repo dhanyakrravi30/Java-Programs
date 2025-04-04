@@ -7,7 +7,7 @@ Use a default constructor to assign default values and display them.
 
 
 
-package Constructor_Destructor;
+ package OOPS.Constructor_Destructor;
 
 class Person{
     String name;
